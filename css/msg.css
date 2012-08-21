@@ -1,0 +1,13 @@
+#msg {
+	position:fixed;
+	bottom:0px;
+	padding: 10px;
+	width: 450px;
+	color: #CC0000;
+	border: 1px solid #CC0000;
+	background-color: #FEF1ED;
+	font: bold 13px;
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+} 

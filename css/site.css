@@ -1,0 +1,31 @@
+.body {font-family:"Comic Sans MS";}
+.container {}
+
+.header {width:980px; margin-left:auto; margin-right:auto; padding:10px;}
+.siteTitle {width:600px; float:left; font-size:30px;}
+.siteLogo {width:200px; float:right;}
+
+.body {width:1000px; margin-left:auto; margin-right:auto; padding:0px;}
+
+.leftColumn{float:left; width:180px; background-color:#013783; vertical-align:top;}
+.leftColumn ul {margin-top:0px; margin-bottom:0px; margin-left:-40px;}
+.leftColumn li {list-style-type:none; background-color:#013783; height:40px;}
+.leftColumn li:hover {background-color:#124894;}
+.leftColumn a {display:block; height:20px; padding:10px; text-decoration:none; color:#EEEEEE;}
+.leftColumn a:hover {color:#DDDDDD;}
+.leftColumn a:visited {color:#EEEEEE;}
+li.nav_right {position:relative;}
+div.nav_right {position:absolute; top:17px; right:10px; width:10px; height:10px; background-repeat:none; background-image:url('/images/arrow_right.png');}
+div#dropdown_1 {
+	position:relative;
+	right:-180px;
+	top:-42px;
+	display:none;
+}
+
+.content {float:left; width:780px; padding:10px; vertical-align:top;}
+
+.footer {width:1000px; margin-left:auto; margin-right:auto;}
+
+h2.title {font-size:20px; margin:0px; padding-bottom:10px;}
+.center {margin-left:auto; margin-right:auto;}
